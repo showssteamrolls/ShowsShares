@@ -23,9 +23,8 @@ To understand the historical behavior and income profile of VFIAX through intera
 - DAX Calculations  
 - Time Series Visualization
 
-## Screenshots
-
-> *(Add screenshots here once uploaded to the `dashboards/` folder)*
+## Preview Screenshot (Slide 3)
+!(dashboards/preview_slide3.png)
 
 ## Live Demo
 [Launch Dashboard]([https://app.powerbi.com/groups/me/reports/b3d0e974-48bd-44e3-96df-145994cb11c2/62520ce309c35cf8f940?experience=power-bi)
