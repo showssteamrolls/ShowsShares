@@ -28,5 +28,5 @@ To understand the historical behavior and income profile of VFIAX through intera
 > *(Add screenshots here once uploaded to the `dashboards/` folder)*
 
 ## Live Demo
-[Launch Dashboard]([https://app.powerbi.com/view?r=eyJrIjoi...](https://app.powerbi.com/groups/me/reports/b3d0e974-48bd-44e3-96df-145994cb11c2/62520ce309c35cf8f940?experience=power-bi))
+[Launch Dashboard]([https://app.powerbi.com/groups/me/reports/b3d0e974-48bd-44e3-96df-145994cb11c2/62520ce309c35cf8f940?experience=power-bi)])
 
