@@ -1,21 +1,32 @@
-# ShowsShares
-Portfolio Analysis w/ PowerBI
+# ShowsShares – VFIAX Performance Dashboard
 
-# Project Goal
-To understand the historical performance, income generation, and risk profile of the Vanguard 500 Index Fund Admiral Shares (VFIAX).
+An interactive Power BI dashboard analyzing the Vanguard 500 Index Fund Admiral Shares (VFIAX), with a focus on growth, dividend income, volatility, and long-term risk/return patterns.
 
-How has VFIAX grown in price and dividend output over time?
+## Project Goal
 
-What is the all-time high NAV, and when did it occur?
+To understand the historical behavior and income profile of VFIAX through interactive visualizations and annotated insights.
 
-How do dividends vary across years and quarters?
+### Key Questions Explored
 
-How does VFIAX perform relative to other benchmark funds like QQQ or bonds?
+- How has VFIAX grown in price and dividend output over time?
+- What is the all-time high NAV, and when did it occur?
+- How do dividends vary by year and quarter?
+- What are the risk-return tradeoffs versus benchmarks (e.g., QQQ, bonds)?
+- How severe were drawdowns in past downturns?
+- What do rolling 1-year returns show about performance consistency?
+- Are there seasonal patterns across calendar months?
 
-What are the risk-return tradeoffs across asset classes?
+## Tools Used
 
-How much drawdown has VFIAX experienced in past downturns?
+- Power BI  
+- Yahoo Finance Data  
+- DAX Calculations  
+- Time Series Visualization
 
-What has the rolling 1-year return looked like over time?
+## Screenshots
 
-Which calendar months tend to perform better or worse?
+> *(Add screenshots here once uploaded to the `dashboards/` folder)*
+
+## Live Demo
+
+[Launch Dashboard](<Power BI link if public>)  
